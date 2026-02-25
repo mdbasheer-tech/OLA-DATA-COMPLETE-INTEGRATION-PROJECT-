@@ -3,7 +3,7 @@ Ola Data Analytics End-to-End Project
 ![image alt](https://github.com/mdbasheer-tech/OLA-DATA-COMPLETE-INTEGRATION-PROJECT-/blob/d6da1c2a1280351cecc7a61729d663b025040bf6/VEHICLE%20TYPE.png)
 ![image alt](https://github.com/mdbasheer-tech/OLA-DATA-COMPLETE-INTEGRATION-PROJECT-/blob/055413083d9175bfb71c969c60ade73b32f698d3/REVENUE.png)
 ![image alt](https://github.com/mdbasheer-tech/OLA-DATA-COMPLETE-INTEGRATION-PROJECT-/blob/c3227307f50fbf8c56bd72b095ee1e916aac25a6/CANCELLATION.png)
-![image alt]()
+![image alt](https://github.com/mdbasheer-tech/OLA-DATA-COMPLETE-INTEGRATION-PROJECT-/blob/b250aa4dc2255813580345417833b37388b4aad1/RATINGS.png)
 
 
 Objective
